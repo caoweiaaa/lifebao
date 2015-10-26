@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000 </color>
+    <color name="white">#FFFFFF</color>
+    <color name="topbar_bg">#12AF4D</color>
+    <color name="tab_bg">#f9f9f9</color>
+    <color name="tab_text_bg">#bababa</color>
+    <color name="line_bg">#f0f0f0</color>
+    <!--主題-->
+    <color name="theme_primary">#12AF4D</color>
+    <color name="theme_primary_dark">#12AF4D</color>
+    <color name="theme_accent">#FF4081</color>
+    <color name="theme_icons">#FFFFFF</color>
+    <!--二维码-->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <!--Tab滑动页-->
+    <color name="comm_tab_selected_strip">#ffffffff</color>
+    <!--pic列表-->
+    <color name="item_title_normal">#ff444444</color>
+    <color name="item_title_disabled">#ff888888</color>
+    <!--item_news-->
+    <color name="image_loading_bg">#ffefefef</color>
+    <color name="image_loading_bg_night">#ff2b2b2b</color>
+    <color name="list_foot_loading">#ff333333</color>
+    <color name="activity_bg_color">#fff5f5f5</color>
+    <color name="default_text_night">#ff747474</color>
+    <color name="divider_day">#ffdddddd</color>
+    <color name="ss_comment_from">#ff999999</color>
+</resources>
